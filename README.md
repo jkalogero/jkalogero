@@ -72,6 +72,9 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" width="40" height="40"/> 
   </a>
+  <a href="https://about.gitlab.com/" target="_blank"> 
+    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/gitlab.svg" alt="gitlab" width="40" height="40"/> 
+  </a>
   <a href="https://opencv.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="opencv" width="40" height="40"/> 
   </a>
@@ -86,6 +89,9 @@
   </a>
   <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> 
     <img src="https://flask.palletsprojects.com/en/2.2.x/_static/flask-icon.png" alt="flask" width="40" height="40"/> 
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"> 
+    <img src="https://fastapi.tiangolo.com/img/favicon.png" alt="flask" width="40" height="40"/> 
   </a>
   <a href="https://www.tensorflow.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tf2" width="40" height="40"/> 
