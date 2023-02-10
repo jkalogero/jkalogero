@@ -1,7 +1,6 @@
-- 👋 Hi, I’m John!
-- 🎓 I am an Electrical and Computer Engineer from National Technical University of Athens.
-- 👀 I’m interested in Deep Learning, Graph Machine Learning and Natural Language Processing.
-- 💻 I’m currently working as a Machine Learning Research Engineer applying ML methods on B5G networks.
+- 🎓 Electrical and Computer Engineer from National Technical University of Athens.
+- 👀 Interested in Deep Learning, Graph Machine Learning and Natural Language Processing.
+- 💻 Currently working as a Machine Learning Research Engineer applying ML methods on B5G networks.
 
 
 
